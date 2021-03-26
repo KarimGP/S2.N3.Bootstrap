@@ -133,14 +133,22 @@ sup {
 }
 
 a {
+<<<<<<< HEAD
   color: #1490f6;
+=======
+  color: #f69314;
+>>>>>>> 6dbebdea69e715b0e4e61e158f32bf49615d8462
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
+<<<<<<< HEAD
   color: #0767b7;
+=======
+  color: #b76a07;
+>>>>>>> 6dbebdea69e715b0e4e61e158f32bf49615d8462
   text-decoration: underline;
 }
 
